@@ -1,0 +1,9 @@
+.jumbotron {
+    text-align: center;
+    background: black;
+    color: white;
+}
+
+.btn {
+    margin-top: 20px;
+}
